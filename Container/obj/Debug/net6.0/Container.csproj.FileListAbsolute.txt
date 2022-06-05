@@ -1,0 +1,15 @@
+D:\Container\bin\Debug\net6.0\Container.exe
+D:\Container\bin\Debug\net6.0\Container.deps.json
+D:\Container\bin\Debug\net6.0\Container.runtimeconfig.json
+D:\Container\bin\Debug\net6.0\Container.dll
+D:\Container\bin\Debug\net6.0\Container.pdb
+D:\Container\obj\Debug\net6.0\Container.csproj.AssemblyReference.cache
+D:\Container\obj\Debug\net6.0\Container.GeneratedMSBuildEditorConfig.editorconfig
+D:\Container\obj\Debug\net6.0\Container.AssemblyInfoInputs.cache
+D:\Container\obj\Debug\net6.0\Container.AssemblyInfo.cs
+D:\Container\obj\Debug\net6.0\Container.csproj.CoreCompileInputs.cache
+D:\Container\obj\Debug\net6.0\Container.dll
+D:\Container\obj\Debug\net6.0\refint\Container.dll
+D:\Container\obj\Debug\net6.0\Container.pdb
+D:\Container\obj\Debug\net6.0\Container.genruntimeconfig.cache
+D:\Container\obj\Debug\net6.0\ref\Container.dll
